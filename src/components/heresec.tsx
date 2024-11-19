@@ -12,7 +12,7 @@ export default function HereSec() {
               </div>
             </div>
           </div>
-          <div>
+          <div className="h-full flex justify-center items-center">
             <Login />
           </div>
         </div>
